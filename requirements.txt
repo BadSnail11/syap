@@ -1,0 +1,13 @@
+aiogram==2.25.2
+APScheduler==3.10.1
+Flask==3.1.0
+Flask_JWT_Extended==4.7.1
+keras==3.8.0
+matplotlib==3.10.1
+numpy==2.2.3
+pony==0.7.17
+pygame==2.5.2
+python-dotenv==1.0.1
+pytz==2023.3
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
